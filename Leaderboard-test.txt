@@ -1,0 +1,5 @@
+player1-%-50
+player2-%-49
+player3-%-48
+pig-%-48
+player4-%-47
