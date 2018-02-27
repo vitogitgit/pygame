@@ -67,7 +67,7 @@ if __name__ == '__main__':
 
 
 '''
-cd /Users/littlevito/Desktop/test_automation/pythonGOGO/pygame/hitAircraft
+cd /Users/littlevito/Desktop/myComputer/test_automation/pythonGOGO/pygame/hitAircraft
 python Plane_HomePage.py
 '''			
 
